@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Water Control</string>
+
+    <!-- MainActivity -->
+    <string name="drink_info">Всего выпито за день</string>
+    <string name="drink_counter">0 л</string>
+    <string name="drink_input">Введите количество выпитого</string>
+    <string name="drunkEtHint">0.33</string>
+    <string name="addBtnInfo">Добавить</string>
+    <string name="delBtnInfo">Удалить</string>
+</resources>
